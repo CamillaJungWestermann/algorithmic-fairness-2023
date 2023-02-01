@@ -1,5 +1,5 @@
 # Algorithmic Fairness, Accountability and Ethics
-## IT University of Copenhagen (Spring 2222)
+## IT University of Copenhagen (Spring 2023)
 
 ALFAE course is an overview on the topics of bias and fairness in data, models, and algorithms, and on the associated ethical and accountability issues. **This repository** contains exercises for [Spring semester 2023](https://learnit.itu.dk/local/coursebase/view.php?ciid=1073). 
 
