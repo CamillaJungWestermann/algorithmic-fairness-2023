@@ -20,7 +20,7 @@ ALFAE course is an overview on the topics of bias and fairness in data, models, 
 
 
 ### Submissions
-1. Assignment 1 deadline 28th Febuary 2023
+1. Assignment 1 deadline 7th March 2023
 2. Assignment 2 deadline 11th April 2023
 3. Group Project A deadline May 2 2023
 4. Exam submission: Group Project B handin May 19th 2023
